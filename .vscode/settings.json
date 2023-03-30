@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/17bfce15-f81a-4b20-acc7-59b9a0e23cc2/AppServices/subscriptions/17bfce15-f81a-4b20-acc7-59b9a0e23cc2/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/BilionsFirstExpressApp",
+    "appService.deploySubpath": "."
+}
